@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 📫 How to reach me **jeevank7075@gmail.com**
 
-- 📄 Know about my experiences [resume.tiiny.site](resume.tiiny.site)
+- 📄 Know about my experiences myreaume.tiiny.site
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under 1 minute and love combining logic with creativity!**
 
