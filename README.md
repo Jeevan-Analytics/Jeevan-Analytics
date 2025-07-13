@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Jeevan-Analytics/Jeevan-Analytics/blob/main/Git_Hub_BGI.jpg)
 <h1 align="center">Hi 👋, I'm Jeevan Katloju</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
